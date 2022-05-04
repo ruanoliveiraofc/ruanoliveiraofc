@@ -1,4 +1,26 @@
 ## 🙋‍♂️Olá, tudo bem? Eu sou Ruan desenvolvedor Front-End! ☜(ﾟヮﾟ☜)
+
+Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="ruanoliveira" content="width=device-width, initial-scale=1.0">
+    <title>Seja diferença há cada dia, faça á diferença!🙃</title>
+</head>
+<body>
+    <p>Aprenda uma nova linguagem que o faça pensar de uma maneira diferente.
+       Conselhos influenciados pelo medo tendem ao não perder. Mas pensar em não perder não é o caminho para ganhar! 
+      Vencedores assumem riscos. Eles pensam sobre aonde eles querem ir, não onde o resto das coisas estão. 
+      Planejamento de carreira guiado pelo medo provavelmente o levará a algum cubículo para o resto de sua vida 
+      em vez de ao caminho para a grandeza. Claro, é seguro, mas não é divertido.</p>
+    <style type="text/css">
+    </style>
+```
+  </body>
 <div align="center">
   <a href="https://github.com/ruanoliveiraofc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruanoliveiraofc&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
