@@ -1,8 +1,18 @@
-## 🙋‍♂️Olá, tudo bem? Eu sou Ruan desenvolvedor Front-End! ☜(ﾟヮﾟ☜)
+<di>
+    <!-- Typing SVG by ruanoliveiraofc - https://github.com/ruanoliveiraofc/ruanoliveiraofc-typing-svg -->
+<p align="center">
+  <a href="https://github.com/ruanoliveiraofc/ruanoliveiraofc-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+    
+</div>
 
+<div align="center">
+    Olá, tudo bem?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>Bem vindo ao meu perfil, eu sou Ruan Oliveira desenvolvedor Front-End.
 Um Programador amante de novas tecnologias construindo uma carreira notável em desenvolvimento de software🙃
+</div>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
