@@ -29,7 +29,7 @@ Um Programador amante de novas tecnologias construindo uma carreira notável em 
   <img align="center" alt="Ruan-Ts" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ruan-React" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ruan-HTML" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ruan-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ruan-CSS" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
 <br>
