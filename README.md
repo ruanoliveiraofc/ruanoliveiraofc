@@ -9,7 +9,7 @@
 <div align="center">
     Olá, tudo bem?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>Bem vindo ao meu perfil, eu sou Ruan Oliveira desenvolvedor Front-End.
-Um Programador amante de novas tecnologias construindo uma carreira notável em desenvolvimento de software🙃
+Um Programador amante de novas tecnologias construindo uma carreira notável em desenvolvimento de software, a meta e Full-stack
 </div>
 
 ## <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
