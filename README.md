@@ -22,9 +22,7 @@ Um Programador amante de novas tecnologias construindo uma carreira notável em 
     <title>Oiii🙃</title>
 </head>
 <body>
-    <p>Meu propósito é aprender novas tecnologia que me faça pensar de uma maneira diferente.
-       Conselhos influenciados pelo medo tendem ao não perder. Mas pensar em não perder não é o caminho para ganhar! 
-      </p>
+    <p>Meu propósito é aprender novas tecnologia que me faça pensar de uma maneira diferente.</p>
 </body>
 ```
   </body>
