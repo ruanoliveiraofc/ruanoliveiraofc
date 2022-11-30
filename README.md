@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RuanOliveiraofc/7e670960ff9a488d33b00c15dccd02ca/raw/3a0489b9a368140a9cb8d2765466962ae17f5b4c/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ruan Oliveira</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ruanOliveiraofc/ruanOliveiraofc/master/hi.gif" height="30px">, I'm Ruan Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 👨‍🎓 Bachelor Student in Software Engineering 
