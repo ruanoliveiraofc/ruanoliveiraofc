@@ -37,8 +37,8 @@
 <a href="https://twitter.com/oruandev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-oruandev-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/ruanoliveiraofc" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/oruandev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-oruandev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/oruandev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-oruandev-05122A?style=flat&logo=instagram" alt="instagram"/>
