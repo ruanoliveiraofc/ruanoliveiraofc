@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba3d&size=35&left=true&vleft=true&width=1000&lines=Welcome!!;)](https://git.io/typing-svg)
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/RuanOliveiraofc/7e670960ff9a488d33b00c15dccd02ca/raw/3a0489b9a368140a9cb8d2765466962ae17f5b4c/githubcard.svg"/>
+<img align="right" height="500em" 
+src="https://raw.githubusercontent.com/gist/ruanoliveiraofc/e748376d5104e79c9aa1760ec06eaa3b/raw/af2e655ba04195888331c24dc8adbfc158dd06ef/githubcard.svg"/>
+
 <h1 align="left"><img src="https://raw.githubusercontent.com/ruanOliveiraofc/ruanOliveiraofc/master/hi.gif" height="30px">Hello, my name is Ruan Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanOliveiraofc&color=yellow" alt="Profile views" /> </p>
 
