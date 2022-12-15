@@ -9,8 +9,6 @@ src="https://raw.githubusercontent.com/gist/ruanoliveiraofc/e748376d5104e79c9aa1
 
 - 📱  Programmer in process
 
-- 💬 Ask me about **C#, JS, REACT, NODEjs, HTML, CSS**
-
 - ⚡ Fun fact **Oneye 😜**
 
 <!--
