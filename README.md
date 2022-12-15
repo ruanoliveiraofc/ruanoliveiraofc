@@ -5,11 +5,11 @@ src="https://raw.githubusercontent.com/gist/ruanoliveiraofc/e748376d5104e79c9aa1
 <h1 align="left"><img src="https://raw.githubusercontent.com/ruanOliveiraofc/ruanOliveiraofc/master/hi.gif" height="30px">Hello, my name is Ruan Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanOliveiraofc&color=yellow" alt="Profile views" /> </p>
 
-- 👨‍🎓 Bachelor Student in Software Engineering 
+- 👨‍🎓Bachelor Student in Software Engineering 
 
-- 📱   Programmer in process
+- 📱Programmer in process
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡Fun fact **Oneye 😜**
 
 <!--
 
