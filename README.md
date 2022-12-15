@@ -7,7 +7,7 @@ src="https://raw.githubusercontent.com/gist/ruanoliveiraofc/e748376d5104e79c9aa1
 
 - 👨‍🎓 Bachelor Student in Software Engineering 
 
-- 📱  Programmer in process
+- 📱   Programmer in process
 
 - ⚡ Fun fact **Oneye 😜**
 
