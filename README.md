@@ -7,9 +7,9 @@ src="https://raw.githubusercontent.com/gist/ruanoliveiraofc/e748376d5104e79c9aa1
 
 - 👨‍🎓 Bachelor Student in Software Engineering 
 
-- 📱 Mobile app developer in process
+- 📱  Programmer in process
 
-- 💬 Ask me about **Dart, Flutter, C#, HTML, CSS**
+- 💬 Ask me about **C#, JS, REACT, NODEjs, HTML, CSS**
 
 - ⚡ Fun fact **Oneye 😜**
 
