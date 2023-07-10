@@ -4,8 +4,7 @@ src="https://raw.githubusercontent.com/gist/ruanoliveiraofc/02c30a18f13659fe67e1
 
 
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/ruanOliveiraofc/ruanOliveiraofc/master/hi.gif" height="30px">Hello, my name is Ruan Oliveira</h1>
-<h4> Passionate about solving problems and helping people, mainly using technology. He likes to write codes and delve into the most modern web and mobile development technologies, And all this with love and the satisfaction of a job well done.</h4>
+<h1 align="left"><img src="https://raw.githubusercontent.com/ruanOliveiraofc/ruanOliveiraofc/master/hi.gif" height="30px">Hello, my name is Ruan Oliveira</h1> Passionate about solving problems and helping people, mainly using technology. I love writing code and learning new software development technologies. </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanOliveiraofc&color=yellow" alt="Profile views" /> </p>
 
 - 👨‍🎓Bachelor Student in Software Engineering 
